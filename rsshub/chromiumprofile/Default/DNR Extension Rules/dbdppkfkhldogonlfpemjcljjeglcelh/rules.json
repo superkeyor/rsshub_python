@@ -1,0 +1,1 @@
+[{"action":{"responseHeaders":[{"header":"content-security-policy","operation":"remove"},{"header":"x-content-security-policy","operation":"remove"},{"header":"x-webkit-csp","operation":"remove"}],"type":"modifyHeaders"},"condition":{"resourceTypes":["main_frame","sub_frame"],"urlFilter":"*"},"id":1,"priority":1}]
