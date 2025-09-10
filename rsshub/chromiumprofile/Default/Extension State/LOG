@@ -1,2 +1,5 @@
-2025/03/09-16:37:22.948 e7eb Creating DB /home/parallels/Desktop/chromiumprofile/Default/Extension State since it was missing.
-2025/03/09-16:37:22.953 e7eb Delete type=3 #1
+2025/09/10-16:27:17.194 18ba Recovering log #3
+2025/09/10-16:27:17.194 18ba Level-0 table #5: started
+2025/09/10-16:27:17.195 18ba Level-0 table #5: 461 bytes OK
+2025/09/10-16:27:17.196 18ba Delete type=3 #2
+2025/09/10-16:27:17.196 18ba Delete type=0 #3

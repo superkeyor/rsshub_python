@@ -1,0 +1,1 @@
+[{"action":{"redirect":{"regexSubstitution":"https://docs.scriptcat.org/docs/script_installation/#url=\\0"},"type":"redirect"},"condition":{"excludedRequestDomains":["github.com"],"regexFilter":"^([^#]+?)\\.user(\\.bg|\\.sub)?\\.js((\\?).*|$)","requestMethods":["get"],"resourceTypes":["main_frame"]},"id":1,"priority":1}]

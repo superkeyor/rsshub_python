@@ -1,2 +1,5 @@
-2025/03/09-16:37:22.724 e7ea Creating DB /home/parallels/Desktop/chromiumprofile/Default/Site Characteristics Database since it was missing.
-2025/03/09-16:37:22.732 e7ea Delete type=3 #1
+2025/09/10-16:27:16.969 18b7 Recovering log #3
+2025/09/10-16:27:16.969 18b7 Level-0 table #5: started
+2025/09/10-16:27:16.970 18b7 Level-0 table #5: 391 bytes OK
+2025/09/10-16:27:16.972 18b7 Delete type=3 #2
+2025/09/10-16:27:16.972 18b7 Delete type=0 #3

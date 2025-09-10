@@ -1,2 +1,8 @@
-2025/03/09-16:37:22.711 e7fc Creating DB /home/parallels/Desktop/chromiumprofile/Default/Local Storage/leveldb since it was missing.
-2025/03/09-16:37:22.736 e7fc Delete type=3 #1
+2025/09/10-16:27:16.983 18d8 Recovering log #8
+2025/09/10-16:27:16.986 18d8 Level-0 table #11: started
+2025/09/10-16:27:16.986 18d8 Level-0 table #11: 431 bytes OK
+2025/09/10-16:27:16.991 18d8 Delete type=3 #2
+2025/09/10-16:27:16.991 18d8 Delete type=0 #8
+2025/09/10-16:27:35.692 18da Level-0 table #14: started
+2025/09/10-16:27:35.695 18da Level-0 table #14: 15151 bytes OK
+2025/09/10-16:27:35.696 18da Delete type=0 #12

@@ -1,2 +1,5 @@
-2025/03/09-16:37:22.890 e80b Creating DB /home/parallels/Desktop/chromiumprofile/Default/shared_proto_db/metadata since it was missing.
-2025/03/09-16:37:22.909 e80b Delete type=3 #1
+2025/09/10-16:27:17.074 18b7 Recovering log #3
+2025/09/10-16:27:17.074 18b7 Level-0 table #5: started
+2025/09/10-16:27:17.074 18b7 Level-0 table #5: 392 bytes OK
+2025/09/10-16:27:17.075 18b7 Delete type=3 #2
+2025/09/10-16:27:17.075 18b7 Delete type=0 #3
