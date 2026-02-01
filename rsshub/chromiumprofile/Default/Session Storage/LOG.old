@@ -1,4 +1,9 @@
-2025/09/10-16:24:41.681 1361 Creating DB /home/parallels/Desktop/chromiumprofile/Default/Session Storage since it was missing.
-2025/09/10-16:24:41.683 1361 Delete type=3 #1
-2025/09/10-16:27:14.465 1371 Level-0 table #5: started
-2025/09/10-16:27:14.467 1371 Level-0 table #5: 20917 bytes OK
+2025/09/10-16:27:17.056 18d8 Recovering log #3
+2025/09/10-16:27:17.056 18d8 Level-0 table #5: started
+2025/09/10-16:27:17.058 18d8 Level-0 table #5: 20917 bytes OK
+2025/09/10-16:27:17.058 18d8 Recovering log #4
+2025/09/10-16:27:17.058 18d8 Level-0 table #6: started
+2025/09/10-16:27:17.059 18d8 Level-0 table #6: 303 bytes OK
+2025/09/10-16:27:17.063 18d8 Delete type=3 #2
+2025/09/10-16:27:17.064 18d8 Delete type=0 #3
+2025/09/10-16:27:17.064 18d8 Delete type=0 #4

@@ -1,5 +1,5 @@
-2025/09/10-16:27:17.075 18b7 Recovering log #3
-2025/09/10-16:27:17.075 18b7 Level-0 table #5: started
-2025/09/10-16:27:17.075 18b7 Level-0 table #5: 6575 bytes OK
-2025/09/10-16:27:17.078 18b7 Delete type=3 #2
-2025/09/10-16:27:17.078 18b7 Delete type=0 #3
+2026/01/31-22:21:15.341 f44 Recovering log #6
+2026/01/31-22:21:15.344 f44 Level-0 table #8: started
+2026/01/31-22:21:15.363 f44 Level-0 table #8: 2804 bytes OK
+2026/01/31-22:21:15.378 f44 Delete type=3 #4
+2026/01/31-22:21:15.378 f44 Delete type=0 #6

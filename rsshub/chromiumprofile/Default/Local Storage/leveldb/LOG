@@ -1,8 +1,22 @@
-2025/09/10-16:27:16.983 18d8 Recovering log #8
-2025/09/10-16:27:16.986 18d8 Level-0 table #11: started
-2025/09/10-16:27:16.986 18d8 Level-0 table #11: 431 bytes OK
-2025/09/10-16:27:16.991 18d8 Delete type=3 #2
-2025/09/10-16:27:16.991 18d8 Delete type=0 #8
-2025/09/10-16:27:35.692 18da Level-0 table #14: started
-2025/09/10-16:27:35.695 18da Level-0 table #14: 15151 bytes OK
-2025/09/10-16:27:35.696 18da Delete type=0 #12
+2026/01/31-22:21:15.037 f6b Recovering log #13
+2026/01/31-22:21:15.049 f6b Level-0 table #16: started
+2026/01/31-22:21:15.053 f6b Level-0 table #16: 325335 bytes OK
+2026/01/31-22:21:15.053 f6b Recovering log #15
+2026/01/31-22:21:15.054 f6b Level-0 table #17: started
+2026/01/31-22:21:15.054 f6b Level-0 table #17: 178 bytes OK
+2026/01/31-22:21:15.055 f6b Delete type=0 #15
+2026/01/31-22:21:15.055 f6b Delete type=3 #10
+2026/01/31-22:21:15.055 f6b Delete type=0 #13
+2026/01/31-22:21:15.056 f6d Compacting 5@0 + 1@1 files
+2026/01/31-22:21:15.062 f6d Generated table #19@0: 53 keys, 335337 bytes
+2026/01/31-22:21:15.062 f6d Compacted 5@0 + 1@1 files => 335337 bytes
+2026/01/31-22:21:15.063 f6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/31-22:21:15.063 f6d Delete type=2 #9
+2026/01/31-22:21:15.063 f6d Delete type=2 #11
+2026/01/31-22:21:15.063 f6d Delete type=2 #17
+2026/01/31-22:21:15.063 f6d Delete type=2 #16
+2026/01/31-22:21:15.063 f6d Delete type=2 #7
+2026/01/31-22:21:15.063 f6d Delete type=2 #14
+2026/01/31-22:22:15.066 f6d Level-0 table #21: started
+2026/01/31-22:22:15.068 f6d Level-0 table #21: 46563 bytes OK
+2026/01/31-22:22:15.070 f6d Delete type=0 #18
